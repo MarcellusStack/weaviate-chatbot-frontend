@@ -90,13 +90,6 @@ export default function Home() {
             vertraulicher Daten verwendet werden.
           </li>
           <li>
-            <span className="font-semibold">Missbrauch verhindern: </span>
-            Missbrauch verhindern: Verwenden Sie den Chatbot nicht, um Spam,
-            beleidigende oder unangemessene Inhalte zu verbreiten. Diese Art von
-            Verhalten ist nicht akzeptabel und kann rechtliche Konsequenzen
-            haben.
-          </li>
-          <li>
             <span className="font-semibold">Feedback geben: </span>
             Falls der Chatbot eine falsche oder unzureichende Antwort liefert
             oder Verbesserungen benötigt, geben Sie Feedback. Dies kann dazu
